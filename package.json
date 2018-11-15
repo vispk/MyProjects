@@ -1,0 +1,19 @@
+{
+  "name": "demo-simple-api",
+  "version": "1.0.0",
+  "description": "Implementation of the Simplest API",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://apidesigner@github.com/adidas-group/demo-simple-api.git"
+  },
+  "author": "Zdenek.Nemec@externals.adidas-group.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adidas-group/demo-simple-api/issues"
+  },
+  "homepage": "https://github.com/adidas-group/demo-simple-api#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
