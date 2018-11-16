@@ -36,5 +36,5 @@ definitions:
     required:
       - message
     example:
-      message: Hello World!
+      message: Hello World!,
       status:Success
