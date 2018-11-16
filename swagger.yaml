@@ -37,4 +37,4 @@ definitions:
       - message
     example:
       message: Hello World!,
-      status:Success
+      status: Success
