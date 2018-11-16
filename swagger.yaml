@@ -35,6 +35,7 @@ definitions:
         type: string
     required:
       - message
+      - status
     example:
       message: Hello World!,
       status: Success
